@@ -1,0 +1,82 @@
+body
+{
+background-color: 	lightblue;
+font-family: Verdana;
+font-size: 24px;
+color: black;
+}
+#container
+{
+	padding-top: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom:50px;
+	background-color: pink;
+	margin: auto;
+    width: 1000px;
+	border: 8px groove black;
+	
+}
+#aktualnaData
+{
+	  text-align: center;
+    border: 5px dashed red;
+}
+#dniDoWydarzenia
+{
+	  text-align: center;
+    border: 5px dashed red;
+}
+#doWydarzenia
+{
+	  text-align: center;
+    border: 5px dashed red;
+}
+
+#dataWydarzenia
+{
+	  text-align: center;
+    border: 5px dashed red;
+}
+
+#description
+{
+	text-align: center;
+	border: 3px solid #808080;
+}
+
+#footer
+{
+	color: black;
+	margin-top: 50px;
+	padding: 10px;
+	font-size: 12px;
+	text-align: center;
+    border: 5px dotted orangered;
+	letter-spacing: 3px;
+}
+#topBar
+{
+	
+	color: black;
+	padding: 10px;
+	font-size: 18px;
+	text-align: center;
+    border: 5px dotted orangered;
+	letter-spacing: 3px;
+	margin-bottom: 50px;
+}
+a:link
+{
+	color: rgb(28, 67, 240);
+}
+
+a:visited
+{
+	color:rgb(28, 67, 240);
+}
+
+a:hover
+{
+	color: yellow;
+}
